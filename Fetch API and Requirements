@@ -1,0 +1,25 @@
+//Steps to add api
+1)Visit the CricApi 
+2)Login 
+3)then you will get the Api key save it somewhere
+4)then come back to the main page 
+5)scroll down and you will see an option 'START USING'
+6)Click on that an there you will find the URL
+7)here is the sample url => URL: https://cricapi.com/api/matches/
+8)the link may change this is just an example
+9)there are also many different api options available so you can choose according to your choice
+10)Now,you are all set to make the project
+-------------------------------------------------------------------
+//Software required 
+1)install Node js in your machine
+2)install VS code in your machine
+3)some reference are taken from the website React Material UI so do check it out
+--------------------------------------------------------------------
+//to start making
+1)choose the folder in which you want to build your project
+2)open terminal and use this command
+  npx create-react-app Livescores
+  /*here is the project name you wnat to give in my case I gave the name Livescores so above is the sample command*/
+ 3)and to run the app on your local server  you can use the command npm start
+ ------------------------------------------------------------------
+ 
