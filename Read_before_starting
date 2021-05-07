@@ -20,6 +20,13 @@
 2)open terminal and use this command
   npx create-react-app Livescores
   /*here is the project name you wnat to give in my case I gave the name Livescores so above is the sample command*/
- 3)and to run the app on your local server  you can use the command npm start
+ 3)and to run the app on your local server  you can use the command npm start or yarn start both will work
  ------------------------------------------------------------------
+ //to install material UI in your Text editor 
+ please run following commands
  
+// with npm
+npm install @material-ui/core
+
+// with yarn
+yarn add @material-ui/core
